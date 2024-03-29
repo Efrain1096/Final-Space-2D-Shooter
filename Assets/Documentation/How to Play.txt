@@ -1,0 +1,12 @@
+How To Play Instructions
+
+
+Click the Shooter executable
+
+In-game controls: 
+
+Movement: W - Up, A - Left, S - Down, D - Left
+
+Fire Main Weapon: Left Mouse Button
+
+pause: Esc 

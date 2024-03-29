@@ -1,0 +1,63 @@
+
+Assets:
+
+Sprites: 
+
+
+All sprites are original and drawn by me (ships, projectiles, engine afterburner, button sprites, etc...), the ship sprite designs, especially the player's is inspired by the forward wing-swept design from one of the planes of Ace Combat X: Skies of Deception. The XR-45 Cariburn/Caliburn (https://acecombat.fandom.com/wiki/XR-45_Cariburn). Played the hell out of that game on the PSP.
+
+Background Art: Original and drawn by me (Efrain Vasques \^.^/)
+
+Splashscreen logo: Made by freelogodesign.org
+
+Font: https://www.1001freefonts.com/saucer.font (SAUCER font)
+
+
+Sounds:
+
+Menu Music:	“Nuts and Bolts" by PlayOnLoop.com (https://www.playonloop.com/2018-music-loops/nuts-and-bolts/#free-download)
+		Licensed under Creative Commons by Attribution 4.0
+
+Gameplay Music:	"Galactic Trek" by PlayOnLoop.com (https://www.playonloop.com/2018-music-loops/galactic-trek/#free-download)
+		Licensed under Creative Commons by Attribution 4.0
+
+		"Combat Plan" by PlayOnLoop.com (https://www.playonloop.com/2018-music-loops/combat-plan/#free-download)
+		Licensed under Creative Commons by Attribution 4.0
+
+
+Sound FX: 	Ray Gun Sound by Mike Koenig (http://soundbible.com/1770-Ray-Gun.html) (I modified it by cutting out the initial windup,
+												named "Ray_Gun_Mike_Koenig_Shortened")
+		Licensed under Creative Commons by Attribution 3.0
+
+		Laser Cannon Sound by Mike Koenig (http://soundbible.com/1770-Ray-Gun.html) (I modified it by cutting out the initial 											windup, named "Laser_Cannon_Mike_Koenig_Shortened")
+		Licensed under Creative Commons by Attribution 3.0
+
+		Explosion 1 by FreeSoundEffects.com (https://www.freesoundeffects.com/free-track/bomb-1-466477/)
+		License Agreement: https://www.freesoundeffects.com/licence.php
+
+
+https://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/licenses/by/3.0/
+
+Code and script code references:
+https://www.youtube.com/watch?v=JL44RFYVijA (Making a simple pause menu)
+
+https://www.instructables.com/id/2-Starting-to-Make-a-Game-Making-a-Splashscreen-in/ (Making a splashscreen)
+
+https://www.youtube.com/watch?v=ToVL_f9G9Yk (IEnumerator and music transitioning between scenes)
+
+https://www.youtube.com/watch?v=TxrnHkgWep8 (Adding sound effects to game)
+
+https://docs.unity3d.com/ScriptReference/index.html (Unity Documentation, of course)
+
+https://www.youtube.com/watch?v=OR0e-1UBEOU (How to Make a Game - Unity for Beginners)
+
+https://www.youtube.com/watch?v=4Wh22ynlLyk (Unity - Enemy Follows Player [Beginner Tutorial])
+
+https://stackoverflow.com/questions/25930919/accessing-a-variable-from-another-script-c-sharp (accessing-a-variable-from-another-script-c-sharp)
+
+https://www.sitepoint.com/saving-data-between-scenes-in-unity/ (Singleton Method)
+
+https://cc.davelozinski.com/c-sharp/fastest-way-to-convert-an-int-to-string
+
+https://gamedev.stackexchange.com/questions/160156/how-do-i-display-a-variable-in-a-ui-text-component 
