@@ -6,8 +6,6 @@ public class EnemyBullet : MonoBehaviour
 {
     private float bulletSpeed = 2.0f;
 
-
-
     Rigidbody2D bullet;
 
     private void Start()
@@ -21,7 +19,5 @@ public class EnemyBullet : MonoBehaviour
     {
         Destroy(gameObject);
     }
-
-
 
 }
