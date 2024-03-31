@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Final-Space-2D-Shooter.sln"
+    "dotnet.defaultSolution": "Final-Space-2D-Shooter.sln",
+    "dotnet.preferCSharpExtension": true
 }
