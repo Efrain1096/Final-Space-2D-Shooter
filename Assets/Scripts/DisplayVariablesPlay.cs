@@ -7,12 +7,8 @@ public class DisplayVariablesPlay : MonoBehaviour
 {
     public SpawnEnemies spawnScript;
     public GameObject spawnObject;
-
-
-
     public Text totalEnemyKills;
     public Text wavesSurvived;
-
 
     // Start is called before the first frame update
     void Start()
