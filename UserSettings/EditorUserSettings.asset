@@ -5,6 +5,33 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 06000c045d015e585f0c082712260d444f164e797f7c7e35797e1c36b2e66168
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 060504055d0750590e0d0e24407559444f4e19297d7022667b791c65e0b1363e
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b0006525d035e5d5b0f0a2641765e444e15192c7e7f7134747f1c63bbb5673b
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5b50045f0001080f540d5923457006444e15197b7e2d7664297e1861b0b6643d
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5101515550570c0b0b0a0a7142735d4442154a7d7d7c7e32292a4931b2b5633b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 0103525152055d025e0a5b7b11705d4441154a2e742b24322b2b4b32e0b06739
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5b04560201540c090f5a0a2149270c44424e487e7b2b24642f284863e0e4303e
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 51550302040d0b5e0e5f557144265c4441154a2e787a27322c281f66b2e1606c
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 5101015604000b0c0f0a5e7a167b5d441316192c7b2e76622b2d1835bab5376f
+      flags: 0
     UnityEditor.ShaderGraph.FloatingWindowsLayout2:
       value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649501f031bf84253f22f2514d70ccc19c91333cd1f0fcbd95f8bb39b8698a8d5d4cfd7ccd6bafdfae4eff4daf7a3e8afbcbe9afae1aefdedcff8f7c8d0b28696dd8bdff8888583ec9d829f9bcfc78c8dd48e958990bdc1e092aba590aaa69994b79d879c8793a774f1f57b246a579eb3bbbd89b3be41867464c6d26665937c3bc882b3ad9d7c879d8096bb4d8adbc152898f9e2ddc40a1574a727768566959455e697f5e7d2e040c23713f672b1b5227697e3221212443486f784e5644210960691a1e6a730c0c00615e4e54185d4f1e4e1b0d5872716d5e6f603a6b7c4176795978363451721033f32331f10126e3f33cec2cdee7f607b25924b2eeb5a25e5c584840414be451989444488c970bd4
       flags: 0
@@ -16,7 +43,13 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
-  m_VCOverlayIcons: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 0
+  m_ArtifactGarbageCollection: 1

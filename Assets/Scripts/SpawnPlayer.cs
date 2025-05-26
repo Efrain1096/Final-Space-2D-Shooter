@@ -9,7 +9,7 @@ public class SpawnPlayer : MonoBehaviour
 
     Vector2 whereToSpawn;
     public bool playerDestroyed = false;
-    public int playerLives = 3;
+    //public int playerLives = 3;
     
     private void Start()
     {

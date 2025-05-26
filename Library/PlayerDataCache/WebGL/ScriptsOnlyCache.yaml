@@ -66,8 +66,6 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.UI.UIFoldout
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.ShaderGraph.Editor.dll:
-    - UnityEditor.ShaderGraph.ShaderGraphProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -341,7 +339,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6284}
     - Class: 114
-      Script: {instanceID: 26586}
+      Script: {instanceID: 26238}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -446,7 +444,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6284}
     - Class: 114
-      Script: {instanceID: 26586}
+      Script: {instanceID: 26238}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -551,7 +549,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6284}
     - Class: 114
-      Script: {instanceID: 26586}
+      Script: {instanceID: 26238}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
